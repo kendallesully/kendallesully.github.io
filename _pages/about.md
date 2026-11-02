@@ -21,4 +21,3 @@ My current objective is to design, develop, and evaluate the effectiveness of ed
 ## Contact
 
 [kendall.sullivan@email.ucr.edu](mailto:kendall.sullivan@email.ucr.edu)
-[ORCID: 0009-0002-7349-4905](https://orcid.org/0009-0002-7349-4905)
