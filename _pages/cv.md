@@ -12,7 +12,7 @@ toc_label: On this page
 
 **University of California, Riverside | Riverside, CA**  
 [kendall.sullivan@email.ucr.edu](mailto:kendall.sullivan@email.ucr.edu)  
-https://orcid.org/0009-0002-7349-4905
+[ORCID: 0009-0002-7349-4905](https://orcid.org/0009-0002-7349-4905)
 CV Updated: October 31, 2026
 
 ## Objective
