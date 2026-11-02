@@ -16,7 +16,7 @@ My current objective is to design, develop, and evaluate the effectiveness of ed
 - [Posters and talks](/presentations/)
 - [Teaching and service](/teaching-service/)
 - [Complete CV](/cv/)
-- [Download CV (PDF)](/files/CV_Kendall_Sullivan.pdf)
+- [Download my CV (PDF)](/files/CV_Kendall_Sullivan.pdf)
 
 ## Contact
 
