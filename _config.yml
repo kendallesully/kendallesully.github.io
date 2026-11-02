@@ -5,13 +5,12 @@ site_theme: default
 title: Kendall Sullivan
 title_separator: '-'
 name: Kendall Sullivan
-description: Research on learning, cognitive load, flexible transfer, and educational
-  technology.
+description: Research on learning scaffolds and educational technology.
 url: https://kendallesully.github.io
 baseurl: ''
 repository: kendallesully/kendallesully.github.io
 author:
-  avatar: null
+  avatar: Kendall_Sullivan_Headshot.jpg
   name: Kendall Sullivan
   pronouns: null
   bio: Undergraduate researcher | Learning and educational technology
@@ -24,7 +23,7 @@ author:
   googlescholar: null
   inspire-hep: null
   impactstory: null
-  orcid: null
+  orcid: https://orcid.org/0009-0002-7349-4905
   semantic: null
   ssrn: null
   pubmed: null
