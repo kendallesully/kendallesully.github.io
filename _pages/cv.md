@@ -12,6 +12,7 @@ toc_label: On this page
 
 **University of California, Riverside | Riverside, CA**  
 [kendall.sullivan@email.ucr.edu](mailto:kendall.sullivan@email.ucr.edu)  
+https://orcid.org/0009-0002-7349-4905
 CV Updated: October 31, 2026
 
 ## Objective
@@ -96,7 +97,7 @@ UCR Research Mini Grant, 2026 - $1,000
 
 UCR Travel Mini Grant, 2026 - $1,500
 
-UCR MSRIP Research Grant, 2025 - $500
+UCR Mentoring Summer Research Internship Program Research Grant, 2025 - $500
 
 ## Research Publications
 
