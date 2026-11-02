@@ -8,15 +8,15 @@ toc_sticky: true
 toc_label: On this page
 ---
 
-[Download my CV (PDF)](/files/Kendall_Sullivan_CV.pdf)
+[Download my CV (PDF)](/files/CV_Kendall_Sullivan.pdf)
 
 **University of California, Riverside | Riverside, CA**  
 [kendall.sullivan@email.ucr.edu](mailto:kendall.sullivan@email.ucr.edu)  
-CV source updated: October 28, 2026
+CV Updated: October 31, 2026
 
 ## Objective
 
-As a student, researcher, and educator, I aim to equip all learners with high utility tools they can harness to take agency over their learning, improve their learning efficiency, and effectively retain and utilize their knowledge in innovative ways. My current objective is to evaluate the efficacy and effectiveness of empirically-grounded educational technologies for the purpose of improving learners’ ability to transfer and utilize their knowledge while retaining agency over the learning process. In doing so, I aim to contribute to the collaborative effort of reducing the equity gap in education by expanding access to effective tools that adapt to individual learner needs.
+My current objective is to design, develop, and evaluate the effectiveness of educational technologies and learning scaffolds that aim to expand educational accessibility and equity. In doing so, I aim to equip all learners with high utility tools they can harness to take agency over their learning, improve their learning efficiency, and effectively retain and utilize their knowledge in innovative ways.
 
 ## Education
 
@@ -34,7 +34,8 @@ High School Diploma, University High School, Irvine, CA, Aug 2019 - June 2023
 
 ### Evaluating the utility of GenAI as a retrieval practice tool: A comparison of student-, AI-, and experimenter-generated testing
 
-Honors Capstone Research Project, University of California, Riverside | May 2025 - Present Faculty Advisor: Dr. Annie Ditta, Ph.D.
+Honors Capstone Research Project, University of California, Riverside | May 2025 - Present
+Faculty Advisor: Dr. Annie Ditta, Ph.D.
 
 -   Evaluated the effects of testing type (student-generated, AI-generated, experimenter-generated) and question type (previously tested, previously not tested) on final test performance and students’ learning perceptions.
 
@@ -48,7 +49,8 @@ Honors Capstone Research Project, University of California, Riverside | May 2025
 
 ### Investigating the relationship between cognitive load, comprehension, and flexible transfer in multimedia statistics learning: A classroom study
 
-Independent Research Project, University of California, Riverside | May 2026 - Present Faculty Advisor: Dr. Annie Ditta, Ph.D.
+Independent Research Project, University of California, Riverside | May 2026 - Present
+Faculty Advisor: Dr. Annie Ditta, Ph.D.
 
 -   Designed and developed a classroom study to translate the two-experiment research project, Sullivan & Ditta (ready to submit), to an ecologically valid instructional context.
 
@@ -58,7 +60,8 @@ Independent Research Project, University of California, Riverside | May 2026 - P
 
 ### Investigating the relationship between cognitive load, comprehension, and flexible transfer in multimedia statistics learning
 
-Independent Research Project, University of California, Riverside | Sept 2024 - June 2026 Faculty Advisor: Dr. Annie Ditta, Ph.D.
+Independent Research Project, University of California, Riverside | Sept 2024 - June 2026
+Faculty Advisor: Dr. Annie Ditta, Ph.D.
 
 -   Systematically evaluated the effect of low vs. high cognitive load on comprehension and flexible, content-grounded transfer of knowledge in an applied STEM learning context; assessed whether comprehension mediated any cognitive load effect on transfer.
 
@@ -78,7 +81,8 @@ Independent Research Project, University of California, Riverside | Sept 2024 - 
 
 ### Exploring the relationship between comprehension and functional creativity in multimedia statistics learning
 
-Independent Research Project, University of California, Riverside | Sept 2024 - Dec 2024 Faculty Advisor: Dr. Annie Ditta, Ph.D.
+Independent Research Project, University of California, Riverside | Sept 2024 - Dec 2024
+Faculty Advisor: Dr. Annie Ditta, Ph.D.
 
 -   Conducted a quasi-experiment assessing the relationship between comprehension and functional creativity in multimedia statistics instruction.
 
@@ -108,7 +112,7 @@ Sullivan, K. E., & Ditta, A. S. (in preparation). How individual differences in 
 
 Sullivan, K. E., & Ditta, A. S. (in preparation). Investigating the relationship between cognitive load, comprehension, and transfer in multimedia statistics learning: A classroom study.
 
-He, J. J., & Sullivan, K. E. (submitted). From prior conceptions to new understanding: tracing how an AI literacy game shapes middle school students’ understanding of AI. Proceedings of the International Conference of the Learning Sciences.
+He, J. J., Sullivan, K. E., & Lee, V. R. (submitted). Same structure, different takeaways: how two modules of an AI literacy game shaped what middle schoolers learned. Proceedings of the International Conference of the Learning Sciences.
 
 ## Research Manuscripts Not Submitted
 
@@ -140,21 +144,30 @@ Sullivan, K. E., Trego, M. M., Ditta, A. S. (2025). Evaluating the utility of Ge
 
 ## Paid Research Positions
 
-Collaborative Researcher, AI Intervention Project, PI: Dr. Mariam Salloum, June 2026 - Sep 2026 Collaborated with computer scientists on an AI educational intervention classroom study; contributed education and psychology perspectives. Refined the study design and defined the research questions. Conducted literature review and synthesis; extracted and adapted validated survey items for quantitative and qualitative assessment in the current project assessing differences in computer science students’ perceptions and use of GenAI for coding pre- and post-intervention. Developed data cleaning and analysis plans and workflows in Google Colab; conducted data analysis; drafted project reports.
+Collaborative Researcher, AI Intervention Project
+PI: Dr. Mariam Salloum, June 2026 - Sep 2026
+Collaborated with computer scientists on an AI educational intervention classroom study; contributed education and psychology perspectives. Refined the study design and defined the research questions. Conducted literature review and synthesis; extracted and adapted validated survey items for quantitative and qualitative assessment in the current project assessing differences in computer science students’ perceptions and use of GenAI for coding pre- and post-intervention. Developed data cleaning and analysis plans and workflows in Google Colab; conducted data analysis; drafted project reports.
 
-Independent Researcher, Mentoring Summer Research Internship Program (MSRIP), PI: Dr. Annie Ditta, June 2025 - Aug 2025 Designed, developed, and launched a remote experiment using mock-classroom learning instruction; received a $4500 stipend to pursue this research through a full-time, 8-week summer research internship. Actively participated in graduate school preparation workshops; learned how to craft research statements. Evaluated the utility of GenAI as a retrieval practice tool through a comparison of the effects of student-, AI-, and experimenter-generated testing on final test performance and students’ learning perceptions. Expanded this multi-experiment research project into my University Honors Capstone Project.
+Independent Researcher, Mentoring Summer Research Internship Program (MSRIP)
+PI: Dr. Annie Ditta, June 2025 - Aug 2025
+Designed, developed, and launched a remote experiment using mock-classroom learning instruction; received a $4500 stipend to pursue this research through a full-time, 8-week summer research internship. Actively participated in graduate school preparation workshops; learned how to craft research statements. Evaluated the utility of GenAI as a retrieval practice tool through a comparison of the effects of student-, AI-, and experimenter-generated testing on final test performance and students’ learning perceptions. Expanded this multi-experiment research project into my University Honors Capstone Project.
 
 ## Research Assistantships
 
-Research Assistant, Stanford University DISTAL Lab with Dr. Victor R. Lee, July 2026 - Present Collaborated with a doctoral student to iteratively develop a coding scheme and analysis plan for interview transcript data using thematic analysis. Scrutinized and identified patterns in behavioral data through several rounds of coding. Developed and executed a plan for quantifying and analyzing qualitative data. Co-authored the resulting write-up.
+Research Assistant, Stanford University DISTAL Lab with Dr. Victor R. Lee, July 2026 - Present
+Collaborated with a doctoral student to iteratively develop a coding scheme and analysis plan for interview transcript data using thematic analysis. Scrutinized and identified patterns in behavioral data through several rounds of coding. Developed and executed a plan for quantifying and analyzing qualitative data. Co-authored the resulting write-up.
 
-Research Assistant, UCR TeCD Lab with Dr. Mariam Salloum, Apr 2026 - Sept 2026 Refined study design and defined research questions. Conducted literature review and synthesis; extracted and adapted validated survey items for quantitative and qualitative assessment in the current project. Developed coding workflows in Google Colab for pilot data analysis.
+Research Assistant, UCR TeCD Lab with Dr. Mariam Salloum, Apr 2026 - Sept 2026
+Refined study design and defined research questions. Conducted literature review and synthesis; extracted and adapted validated survey items for quantitative and qualitative assessment in the current project. Developed coding workflows in Google Colab for pilot data analysis.
 
-Research Assistant, UCR TEACH Lab with Dr. Annie Ditta, July 2024 - Aug 2025 Ran participants through mock-classroom learning instruction and testing. Proctored pre-recorded lectures, learning assessments, and questionnaires. Actively participated in journal club discussions and presented my work at weekly lab meetings.
+Research Assistant, UCR TEACH Lab with Dr. Annie Ditta, July 2024 - Aug 2025
+Ran participants through mock-classroom learning instruction and testing. Proctored pre-recorded lectures, learning assessments, and questionnaires. Actively participated in journal club discussions and presented my work at weekly lab meetings.
 
-Research Assistant, UCR Life Events Lab with Dr. Kate Sweeny, July 2024 - Mar 2025 Ran participants through observational studies with EKG recording; administered personality assessments. Coded behavioral data in multimedia videos of adolescents and university students. Assessed participants on impatience, boredom, anger, and excitement.
+Research Assistant, UCR Life Events Lab with Dr. Kate Sweeny, July 2024 - Mar 2025
+Ran participants through observational studies with EKG recording; administered personality assessments. Coded behavioral data in multimedia videos of adolescents and university students. Assessed participants on impatience, boredom, anger, and excitement.
 
-Research Assistant, UCR Social Neuroscience Lab with Dr. Brent Hughes, Apr 2024 - Aug 2024 Ran participants through survey-based studies on memory mapping; administered personality assessments. Assessed participant eligibility for fMRI studies.
+Research Assistant, UCR Social Neuroscience Lab with Dr. Brent Hughes, Apr 2024 - Aug 2024
+Ran participants through survey-based studies on memory mapping; administered personality assessments. Assessed participant eligibility for fMRI studies.
 
 ## Academic Awards and Honors
 
@@ -168,33 +181,45 @@ Psi Chi Exemplar Member Award Nominated and voted for by my peers in UCR’s cha
 
 ## Teaching Experience
 
-Course Designer, Developer, and Facilitator, UCR R’Course, Apr 2026 - Present Cognitive Principles of Teaching and Learning Undergraduate Seminar Faculty Mentor: Dr. Hayden Hendley, Ph.D. Designed and developed a syllabus for an undergraduate seminar on the cognitive principles of teaching and learning to facilitate as the lead instructor. Selected as one of only seven UC Riverside undergraduates in the Spring 2026 R’Course application cycle to develop and facilitate the course as the lead instructor during the 2026–2027 academic year.
+Course Designer, Developer, and Facilitator, UCR R’Course, Apr 2026 - Present
+Cognitive Principles of Teaching and Learning Undergraduate Seminar Faculty Mentor: Dr. Hayden Hendley, Ph.D. Designed and developed a syllabus for an undergraduate seminar on the cognitive principles of teaching and learning to facilitate as the lead instructor. Selected as one of only seven UC Riverside undergraduates in the Spring 2026 R’Course application cycle to develop and facilitate the course as the lead instructor during the 2026–2027 academic year.
 
-Peer Tutor, Self-Organized, Jan 2024 - Mar 2024 Tutored peers at UC Riverside in PSYC 011 - Psychological Methods: Statistical Procedures. Tailored tutoring approaches to each student’s pain points in applied statistics, then guided them to master their specific areas of difficulty. Helped students develop analytical and transfer skills.
+Peer Tutor, Self-Organized, Jan 2024 - Mar 2024
+Tutored peers at UC Riverside in PSYC 011 - Psychological Methods: Statistical Procedures. Tailored tutoring approaches to each student’s pain points in applied statistics, then guided them to master their specific areas of difficulty. Helped students develop analytical and transfer skills.
 
-Private Tutor, Self-Employed, Aug 2021 - Sept 2023 Tutored students in every level of math from fourth to ninth grade. Tailored tutoring approaches to each student’s unique personality and their respective pain points in math, then guided them to master their specific areas of difficulty. Helped students develop problem-solving skills.
+Private Tutor, Self-Employed, Aug 2021 - Sept 2023
+Tutored students in every level of math from fourth to ninth grade. Tailored tutoring approaches to each student’s unique personality and their respective pain points in math, then guided them to master their specific areas of difficulty. Helped students develop problem-solving skills.
 
-Peer Tutor, University High School Academic Student Coalition, Sept 2019 - May 2023 Tutored peers at University High School from freshman to senior level math, ranging from Algebra 1 to AP Statistics, in addition to AP Macroeconomics, CP Physics, AP Physics 1, and AP Physics 2. Facilitated private tutoring sessions four to five times a week; worked with students for hour-long increments on a need basis. Broke down concepts into their fundamental units to make the material digestible for struggling students.
+Peer Tutor, University High School Academic Student Coalition, Sept 2019 - May 2023
+Tutored peers at University High School from freshman to senior level math, ranging from Algebra 1 to AP Statistics, in addition to AP Macroeconomics, CP Physics, AP Physics 1, and AP Physics 2. Facilitated private tutoring sessions four to five times a week; worked with students for hour-long increments on a need basis. Broke down concepts into their fundamental units to make the material digestible for struggling students.
 
 ## Other Academic Activities
 
-Official Member (Feb 2025 - Present), Prospective Member (Oct 2023 - Feb 2025), Psi Chi International Honor Society in Psychology Regularly attended and actively participated in general meetings and discussions on topics in psychology. Developed critical and creative thinking skills for developing research projects with mentorship from an upperclassman member in the selective mentorship program.
+Official Member (Feb 2025 - Present), Prospective Member (Oct 2023 - Feb 2025), Psi Chi International Honor Society in Psychology
+Regularly attended and actively participated in general meetings and discussions on topics in psychology. Developed critical and creative thinking skills for developing research projects with mentorship from an upperclassman member in the selective mentorship program.
 
-Quantitative Methods Proseminar Attendee, UCR Psychology, Apr 2025 - Present Attended weekly in-depth quantitative methods proseminars through the Department of Psychology at the University of California, Riverside with faculty, postdoctoral researchers, and doctoral researchers. Presented my work each quarter of my third year of undergrad and solicited feedback on streamlining my data coding and analysis plans for my presented projects. Actively engaged in scholarly methods discussions of other doctoral students’ work.
+Quantitative Methods Proseminar Attendee, UCR Psychology, Apr 2025 - Present
+Attended weekly in-depth quantitative methods proseminars through the Department of Psychology at the University of California, Riverside with faculty, postdoctoral researchers, and doctoral researchers. Presented my work each quarter of my third year of undergrad and solicited feedback on streamlining my data coding and analysis plans for my presented projects. Actively engaged in scholarly methods discussions of other doctoral students’ work.
 
-Cognition and Cognitive Neuroscience Proseminar Attendee, UCR Psychology, Sept 2024 - Present Attended weekly in-depth cognition and cognitive neuroscience proseminars through the Department of Psychology at the University of California, Riverside with faculty, postdoctoral researchers, and doctoral researchers. Actively attended to scholarly discussions of doctoral students’ and visiting faculty members’ work.
+Cognition and Cognitive Neuroscience Proseminar Attendee, UCR Psychology, Sept 2024 - Present
+Attended weekly in-depth cognition and cognitive neuroscience proseminars through the Department of Psychology at the University of California, Riverside with faculty, postdoctoral researchers, and doctoral researchers. Actively attended to scholarly discussions of doctoral students’ and visiting faculty members’ work.
 
-Memory Meetings Attendee, UCR Mnemonists, Aug 2025 - July 2026 Attended monthly memory meetings with the mnemonists group at the University of California, Riverside composed of faculty, postdoctoral researchers, graduate student researchers, and myself in the cognition and cognitive neuroscience area of the Department of Psychology. Discussed research on learning and memory through a neuroscience lens; actively attended to faculty discussion in workshopping sessions for developing RO1 grant proposals.
+Memory Meetings Attendee, UCR Mnemonists, Aug 2025 - July 2026
+Attended monthly memory meetings with the mnemonists group at the University of California, Riverside composed of faculty, postdoctoral researchers, graduate student researchers, and myself in the cognition and cognitive neuroscience area of the Department of Psychology. Discussed research on learning and memory through a neuroscience lens; actively attended to faculty discussion in workshopping sessions for developing RO1 grant proposals.
 
-Board Member, Psi Chi International Honor Society in Psychology, June 2024 - June 2025 Organized and facilitated general meetings, research workshops, and discussions on topics in psychology as the community promoter on the board of UCR’s chapter of Psi Chi. Developed and facilitated research workshops during which I shared resources for undergraduates interested in getting involved in research. Moderated live panel question and answer sessions during research workshops with experienced researchers.
+Board Member, Psi Chi International Honor Society in Psychology, June 2024 - June 2025
+Organized and facilitated general meetings, research workshops, and discussions on topics in psychology as the community promoter on the board of UCR’s chapter of Psi Chi. Developed and facilitated research workshops during which I shared resources for undergraduates interested in getting involved in research. Moderated live panel question and answer sessions during research workshops with experienced researchers.
 
-University Honors Program Study Group Leader, Self-Organized, Oct 2023 - June 2024 Organized and facilitated discussions and review sessions for fellow UCR honors students in my cohort. Generated study outlines and led discussions on course content; encouraged student participation.
+University Honors Program Study Group Leader, Self-Organized, Oct 2023 - June 2024
+Organized and facilitated discussions and review sessions for fellow UCR honors students in my cohort. Generated study outlines and led discussions on course content; encouraged student participation.
 
 ## Other Non-Academic Activities
 
-Cardio and Yoga Practitioner, Sept 2023 - Present Woke/wake up at 4:55am everyday without fail and began/begin every morning with self-directed cardiorespiratory fitness training and yoga. Never took a rest day, despite injury, illness, or insomnia. Flexibility was exercised in terms of duration of each activity on the basis of other life demands, such as academic course schedule, research conferences, and final exams with a priori preparation.
+Cardio and Yoga Practitioner, Sept 2023 - Present
+Woke/wake up at 4:55am everyday without fail and began/begin every morning with self-directed cardiorespiratory fitness training and yoga. Never took a rest day, despite injury, illness, or insomnia. Flexibility was exercised in terms of duration of each activity on the basis of other life demands, such as academic course schedule, research conferences, and final exams with a priori preparation.
 
-Cardio, Cycling, and Yoga Practitioner, June 2023 - Sept 2023 Ran, cycled and practiced yoga daily. Took a single rest day due to illness. Continued to push through the pain on a daily run, cycle, and yoga practice despite two notable injuries.
+Cardio, Cycling, and Yoga Practitioner, June 2023 - Sept 2023
+Ran, cycled and practiced yoga daily. Took a single rest day due to illness. Continued to push through the pain on a daily run, cycle, and yoga practice despite two notable injuries.
 
 ## Graduate Courses Enrolled
 
