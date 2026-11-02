@@ -8,8 +8,6 @@ toc_sticky: true
 toc_label: On this page
 ---
 
-The status of each item is recorded below as it appears in my CV.
-
 ## Research Publications
 
 Sullivan, K. E., Trego, M. M., & Ditta, A. S. (in preparation). Evaluating the utility of GenAI as a retrieval practice tool: A comparison of student-, AI-, and experimenter-generated testing.
@@ -24,7 +22,7 @@ Sullivan, K. E., & Ditta, A. S. (in preparation). How individual differences in 
 
 Sullivan, K. E., & Ditta, A. S. (in preparation). Investigating the relationship between cognitive load, comprehension, and transfer in multimedia statistics learning: A classroom study.
 
-He, J. J., & Sullivan, K. E. (submitted). From prior conceptions to new understanding: tracing how an AI literacy game shapes middle school students’ understanding of AI. Proceedings of the International Conference of the Learning Sciences.
+He, J. J., Sullivan, K. E., & Lee, V. R. (submitted). Same structure, different takeaways: how two modules of an AI literacy game shaped what middle schoolers learned. Proceedings of the International Conference of the Learning Sciences.
 
 ## Research Manuscripts Not Submitted
 
