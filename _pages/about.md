@@ -13,10 +13,10 @@ I am currently applying to interdisciplinary IS and CS PhD programs for Fall 202
 
 ## Explore my work
 
-- [Research projects and experience](/research/)
-- [Papers and manuscripts](/papers/)
-- [Posters and talks](/presentations/)
-- [Teaching and service](/teaching-service/)
+- [Research Projects and Experience](/research/)
+- [Publications and Conference Papers](/papers/)
+- [Conference Posters and Symposia Talks](/presentations/)
+- [Teaching and Service](/teaching-service/)
 - [Complete CV](/cv/)
 - [Download my CV (PDF)](/files/CV_Kendall_Sullivan.pdf)
 
